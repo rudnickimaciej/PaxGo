@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90347473d095a604495fc9972bede215, type: 3}
+  m_Name: 6
+  m_EditorClassIdentifier: 
+  id: 6
+  Moves: 3
+  MaxMovesForOneStar: 3
+  MaxMovesForTwoStars: 3
+  MaxMovesForThreeStars: 3
+  blocksJson: {fileID: 4900000, guid: d193e23c62407b740aa17c01a5f7cf97, type: 3}
+  BlocksWidth: 4
+  BlockHeight: 4
+  BackgroundImage: {fileID: 21300000, guid: 3491e9ba89cf82847b4bccf6c6236dbc, type: 3}
+  BackgroundColor: {r: 0.9150943, g: 0.056114297, b: 0.25803164, a: 1}

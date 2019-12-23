@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: d312421ee2056f84da1d68f054424886
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_PersistentViewDataDictionary: {instanceID: 0}
+  - skin: {fileID: 11400000, guid: 9ba45a64b987d6d41a51632a119a95d0, type: 2}
+  - red: {fileID: 2800000, guid: 6b543fb21091bfe48a4d858306a5ecea, type: 3}
+  - yellow: {fileID: 2800000, guid: 4403c65fc87cd0a44962a65cb3b08394, type: 3}
+  - blue: {fileID: 2800000, guid: 24b60637d53ccc14897f3b61a592ee7e, type: 3}
+  - green: {fileID: 2800000, guid: a5db496d6ec787f499dd94635f5ccef7, type: 3}
+  - emptyKind: {fileID: 2800000, guid: 155690baddf2b43449d76d22fd8246c9, type: 3}
+  - arrowUp: {fileID: 2800000, guid: 3dafd2fb8f5988c40b6d1318c1113774, type: 3}
+  - arrowDown: {fileID: 2800000, guid: 35d6ff786eb14f840882cc61d3779b92, type: 3}
+  - arrowLeft: {fileID: 2800000, guid: cf11226c04393c845bee2bfbd0a0b38e, type: 3}
+  - arrowRight: {fileID: 2800000, guid: 18146ccf5f9e3a34799f83405a42fb0c, type: 3}
+  - emptyDirection: {fileID: 2800000, guid: 18cff366c2ebcf445bbc79cb72465938, type: 3}
+  - logo: {fileID: 2800000, guid: 706ec175b59eea74e993fc1563b9f81b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
