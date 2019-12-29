@@ -6,6 +6,8 @@ Match three blocks of the same color to make them dissapear. The remaining block
 Think before you act - there is limited amount of moves!
 Improve your strategies, unlock new levels and set new records! 
 
+
+
 ![57066142_1220498124785736_1435701038978957312_n (1)](https://user-images.githubusercontent.com/42208564/71558047-14532e00-2a4f-11ea-9b79-ba84d17ee698.png)
 ![56938302_663651130731009_2103903997826957312_n (1)](https://user-images.githubusercontent.com/42208564/71558048-1917e200-2a4f-11ea-8a1c-e24c2fc0bf58.png)
 ![57056251_381727169084561_445686226570182656_n (1)](https://user-images.githubusercontent.com/42208564/71558051-1d43ff80-2a4f-11ea-8aa1-1f0e1c4b8818.png)
