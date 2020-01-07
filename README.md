@@ -1,6 +1,8 @@
 
 # PaxGo | Empty the board and unlock new levels!
 
+https://play.google.com/store/apps/details?id=com.Draho.PaxGoooo
+
 Challenge yourself and empty the board!
 Match three blocks of the same color to make them dissapear. The remaining blocks will move to free spaces depending on their directions. 
 Think before you act - there is limited amount of moves!
